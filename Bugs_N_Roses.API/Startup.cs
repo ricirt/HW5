@@ -1,6 +1,7 @@
 using AutoMapper;
 using Bugs_N_Roses.Application.AutoMapper;
 using Bugs_N_Roses.Application.Extensions;
+using Bugs_N_Roses.Application.Services.AuthServices;
 using Bugs_N_Roses.Domain.Entities;
 using Bugs_N_Roses.Infrastructure.Context;
 using Microsoft.AspNetCore.Builder;
@@ -38,6 +39,7 @@ namespace Bugs_N_Roses.API
 
             services.AddAutoMapper(x => x.AddProfile(typeof(AutoMapperConfiguration)));
 
+            services.AddScoped<IAuthService, AuthService>();
             //var mappingConfig = new MapperConfiguration(mc =>
             //{
             //    mc.AddProfile(new AutoMapperConfiguration());
@@ -45,7 +47,14 @@ namespace Bugs_N_Roses.API
             //IMapper mapper = mappingConfig.CreateMapper();
             //services.AddSingleton(mapper);
 
-            services.AddDefaultIdentity<User>().AddUserStore<User>().AddDefaultTokenProviders();
+            //services.AddDefaultIdentity<User>()
+            //    .AddEntityFrameworkStores<HW4DBContext>()
+            //    .AddDefaultTokenProviders();
+
+            //services.AddDefaultIdentity<IdentityUser<int>>(opt => opt.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<HW4DBContext>();
+            services.AddDefaultIdentity<User>()
+                  .AddDefaultTokenProviders()
+                  .AddEntityFrameworkStores<HW4DBContext>();
 
             services.AddApplicationModule(Configuration);
 

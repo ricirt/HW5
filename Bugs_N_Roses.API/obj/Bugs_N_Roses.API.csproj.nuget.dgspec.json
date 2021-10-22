@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj": {}
+    "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj": {
+    "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj",
         "projectName": "Bugs_N_Roses.API",
-        "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj",
+        "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.API\\Bugs_N_Roses.API.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.API\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj"
+              "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj": {
+                "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj"
               },
-              "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj"
+              "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
+                "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj"
               },
-              "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj"
+              "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj"
               }
             }
           }
@@ -72,6 +72,12 @@
                 "NU1605"
               ]
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
@@ -107,14 +113,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj": {
+    "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj",
         "projectName": "Bugs_N_Roses.Application",
-        "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj",
+        "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Application\\Bugs_N_Roses.Application.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Application\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,11 +137,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj"
+              "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
+                "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj"
               },
-              "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj"
+              "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj"
               }
             }
           }
@@ -178,14 +184,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
+    "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj",
         "projectName": "Bugs_N_Roses.Domain",
-        "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj",
+        "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj": {
+    "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj",
         "projectName": "Bugs_N_Roses.Infrastructure",
-        "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -282,8 +288,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj"
+              "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj": {
+                "projectPath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj"
               }
             }
           }

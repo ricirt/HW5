@@ -1,4 +1,5 @@
 ﻿using Bugs_N_Roses.Domain.Entities;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -9,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace Bugs_N_Roses.Infrastructure.Context
 {
-    public class HW4DBContext : IdentityDbContext
+    public class HW4DBContext : IdentityDbContext<User>
     {
-        public HW4DBContext(DbContextOptions<HW4DBContext> options):base()
+        public HW4DBContext(DbContextOptions<HW4DBContext> options):base(options)
         {
 
         }

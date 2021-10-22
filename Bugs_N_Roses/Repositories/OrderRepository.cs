@@ -44,7 +44,7 @@ namespace Bugs_N_Roses.Infrastructure.Repositories
                 OrderDetail orderDetail = new OrderDetail
                 {
                     OrderId = orderResult.Id,
-                    UserId = userResult.Id,
+                    UserId = Int32.Parse(userResult.Id),
                     ProductId = productResult.Id,
                     ProductName = productResult.ProductName,
                     UserFirstName = userResult.FirstName,

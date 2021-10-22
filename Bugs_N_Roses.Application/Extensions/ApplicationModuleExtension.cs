@@ -22,7 +22,6 @@ namespace Bugs_N_Roses.Application.Extensions
         public static IServiceCollection AddApplicationModule(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddInfrastructureModule(configuration);
-            services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<IOrderDetailService, OrderDetailService>();
             services.AddScoped<IOrderService, OrderService>();

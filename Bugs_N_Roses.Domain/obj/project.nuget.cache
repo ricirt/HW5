@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJezyIZ3JTz94n1woLntD9z0u4ybQuLcabOjW8zbAX4Tyu+XPmm+szkOUTDgC8Xh4ytJLjh3RH3q5pbGDOZvbA==",
+  "dgSpecHash": "8/dGlB0vUxbPotozjL9T7Da3QXJ48NeUVdwZkxDac7BZVfEUgrgxRaQ6NBkHjOeOZp1y+QCiAgJe8tqvfWbmWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses.Domain\\Bugs_N_Roses.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

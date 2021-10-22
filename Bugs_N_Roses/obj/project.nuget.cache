@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fPM2ogtKyiBKsT0geX2KjrdsradWIyaXeUiQBJIZpMRoCpMfPaer1iv/ReSiJFJNDmWnthAHYTTkZ2mf/OK2oQ==",
+  "dgSpecHash": "6Jp3WMhT6aYf98tqx9jjO9P46+CqTyJXiRrSx1pYCAFcXA6MDKooHB/OaiEeZsdqLV1kliFSvi+E4x/rUIMxiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\Source\\Repos\\HW5-Bugs-N-Roses\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\source\\repos\\HW5-Bugs-N-Roses\\HW5\\Bugs_N_Roses\\Bugs_N_Roses.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

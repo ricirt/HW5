@@ -1,0 +1,5 @@
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain_Test\obj\Debug\net5.0\Bugs_N_Roses.Domain_Test.csproj.AssemblyReference.cache
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain_Test\obj\Debug\net5.0\Bugs_N_Roses.Domain_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain_Test\obj\Debug\net5.0\Bugs_N_Roses.Domain_Test.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain_Test\obj\Debug\net5.0\Bugs_N_Roses.Domain_Test.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain_Test\obj\Debug\net5.0\Bugs_N_Roses.Domain_Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\bin\Debug\net5.0\Bugs_N_Roses.Domain.deps.json
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\bin\Debug\net5.0\Bugs_N_Roses.Domain.dll
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\bin\Debug\net5.0\ref\Bugs_N_Roses.Domain.dll
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\bin\Debug\net5.0\Bugs_N_Roses.Domain.pdb
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.csproj.AssemblyReference.cache
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.dll
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\ref\Bugs_N_Roses.Domain.dll
+C:\Users\fatih\Source\Repos\HW5-Bugs-N-Roses\Bugs_N_Roses.Domain\obj\Debug\net5.0\Bugs_N_Roses.Domain.pdb
